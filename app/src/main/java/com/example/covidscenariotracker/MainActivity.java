@@ -29,6 +29,7 @@ import static okhttp3.internal.http.HttpDate.format;
 public class MainActivity extends AppCompatActivity {
 private TextView totalConfirm,totalRecovery,totalActive,totalDeath,totalTests;
 private TextView todayConfirm,todayRecovery,todayDeath,lastDate;
+private TextView todayConfirm11,todayReco3very,todayDe3ath,lastD3ate;
 
 private PieChart pieChart;
 
